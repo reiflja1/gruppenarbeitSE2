@@ -7,6 +7,8 @@
 ## POTENTIELLE PARTNER & WETTBEWERB
 > Im Feld Potenzielle Partnerschaften & Wettbewerb stehen alle Informationen über relevante Partnerschaften und Wettbewerber in dem Markt, den wir innovieren wollen.
 
+Anderung von David
+
 ## FAKTEN
 > Das Feld Fakten ist gewissermassen unser Joker. Hier steht alles, was sich in den anderen Feldern nicht einordnen lässt, aber irgendwie mit unserem Recherchethema zu tun hat.
 
