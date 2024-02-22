@@ -4,7 +4,7 @@
 ## TRENDS & TECHNOLOGIE
 > Im Feld Trends & Technologien notieren wir Informationen über Megatrends sowie soziokulturelle Trends, Konsum- und Zeitgeisttrends, die einen Einfluss auf unser Projekt haben (könnten). Auch unsere Kenntnisse über aktuelle Technologien und Entwicklungen fließen hier hinein. Vor allem im Bereich der digitalen Innovationen sind diese wichtig.
 
-irgendöppis ändere
+irgendöppis ändere Änderung von David
 
 ## POTENTIELLE PARTNER & WETTBEWERB
 > Im Feld Potenzielle Partnerschaften & Wettbewerb stehen alle Informationen über relevante Partnerschaften und Wettbewerber in dem Markt, den wir innovieren wollen.
