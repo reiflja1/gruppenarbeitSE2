@@ -22,20 +22,30 @@ Die Kernkompetenz der Fachfirmen liegt in der Entwicklung & Froschung und der Pr
 Die Benutzer können Elektronikbauteile bestellen, welche heute nur über ein direktes Netzwerk verfügbar sind.
 
 ## USER
+> Das Feld User enthält die Merkmale unseren künftigen Usern. Da die Informationen in diesem Bereich eng mit unseren Notizen in den Feldern Erkenntnisse, Bedürfnisse und Touchpoints zusammenhängen, teilen sich diese vier Rubriken den größten Abschnitt des EXPLORE-Moduls.
+
 > Hobbyisten, Bastler und DIY-Enthusiasten, die Interesse an spezialisierten Elektronikbauteilen haben.
 Privatkunden, die verlässliche Quellen für hochwertige elektronische Bauteile suchen.
 
 ## BEDÜRFNISSE
+> Was wir unter Bedürfnisse notieren, müssen wir mit unserer Innovation (auf)lösen. Die Kombination von User und Bedürfnis ist der Fixpunkt für die Entwicklung von neuen digitalen Produkten und Services.
+
 > Elektronikbauteile, auf die nur Unternehmen zugriff haben, für den Privatkunden verfügbar machen.
 
 ## ERKENNTNISSE
+> Das Feld Erkenntnisse enthält Informationen, die sowohl die physische als auch die emotionale Lebenswelt unserer User betreffen. Hier notieren wir auch passende Analogien, die uns eine neue Perspektive für unser Recherchethema ermöglichen. Oder Analogien, die unsere Empathie für das Recherchethema vertiefen.
+
 > Privatkunden legen Wert auf Bequemlichkeit und Zuverlässigkeit beim Kauf von Elektronikbauteilen.
 Betonung der Benutzererfahrung und -zufriedenheit in der DIY-Community.
 
 ## TOUCHPOINTS
+> Das Feld Touchpoints listet die Berührungspunkte auf, die User mit einem Service oder Produkt haben.
+
 > Online-Plattformen zum Durchsuchen und Kaufen von Elektronikbauteilen.
 Kundenservice-Interaktionen für Anfragen und Unterstützung.
 
 ## WIE KÖNNEN WIR?
+> Aus den Informationen über User, Bedürfnisse, Erkenntnisse und Touchpoints entwickeln wir eine Wie-können wir- Frage, die ein ungelöstes Problem für User beschreibt.
+
 > Wie können wir den Transport von Unternehmensbauteilen zu Privatkunden effizient und sicher gestalten, um ihren Bedarf an exklusiven Elektronikkomponenten zu decken?
 
