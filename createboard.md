@@ -5,14 +5,24 @@
 ## IDEEN-BESCHREIBUNG
 > Im Feld Ideenbeschreibung notieren wir den Kern unserer Idee. Sie sollte sich auf einen klaren Anwendungsfall fokussieren und diesen beschreiben.
 
+Wir wollen eine Applikation, die es auch Privatkunden ermöglicht, spezifisches Elektromaterial einfach und zu einem fairen Preis zu erwerben, welches ansonsten nur für Unternehmen verfügbar ist.
+
 ## ADRESSIERTE NUTZER
 > Im Feld Adressierte NutzerInnen schreiben wir Details und Besonderheiten zu den NutzerInnen auf, für die wir unsere Lösungsidee entwickeln.
+
+Unsere Lösung soll hauptsächlich für Privatkunden (Hobbybastler etc.) sein, um diesen auch den Zugriff auf spezifisches Elektromaterial zu ermöglichen.
 
 ## ADRESSIERTE BEDÜRFNISSE
 > In Feld Bedürfnisse notieren wir die Bedürfnisse der NutzerInnen, die wir mit unserer Idee erfüllen wollen.
 
+Es wird der Zugang zu spezifischem Elektromaterial für den Privatkunden ermöglicht, zu dem er sonst nur schwer Zugang hat.
+
 ## PROBLEME
 > Im Feld Probleme notieren wir die ein bis drei drängendsten Probleme, die mit diesen Bedürfnissen zu tun haben.
+
+Erwerb von speziellem Elektromaterial für Privatkunden.
+Erwerb dieses Elektromaterial zu einem fairen Preis.
+Neuer Kundenstamm für Elektrofirmen, die ansonsten nur Unternehmen bedienen.
 
 ## IDEENPOTENZIAL
 Mehrwert: Mückenstich vs. Hai-Attacke
