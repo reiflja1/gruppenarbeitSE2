@@ -27,22 +27,32 @@ Neuer Kundenstamm für Elektrofirmen, die ansonsten nur Unternehmen bedienen.
 ## IDEENPOTENZIAL
 Mehrwert: Mückenstich vs. Hai-Attacke
 
-🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+🔵🔵🔵🔵🔵🔵🔵🔵⚪️⚪️
+
 
 Übertragbarkeit: Robinson Crusoe vs. die Welt
 
-🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
+🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+
 
 Machbarkeit: Hammer vs. Raumschiff
 
-🔵🔵🔵🔵🔵🔵🔵🔵⚪️⚪️
+🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
+
 
 
 ## DAS WOW
 > Im Feld Das Wow notieren wir das eine Detail unserer Lösungsidee, für das wir in der Presse gefeiert werden wollen.
 
+Zugang für Privatkunden auf spezfisches Elektromaterial.
+
 ## HIGH-LEVEL-KONZEPT
 > Im Feld High-Level-Konzept notieren wir eine griffige Analogie, mit der wir unsere Lösungsidee beschreiben könnten.
 
+Es soll das TopCC/Growa der Eltktronikbranchen sein.
+
 ## WERTVERSPRECHEN
 > Ins Feld Wertversprechen schreiben wir unsere Lösungshypothese. Sie ist die Synthese aus Idee, NutzerIn, Bedürfnis und Ideenpotenzial. Und sie ist unsere Antwort auf die Wie-können-wir-Frage aus den EXPLORE-BOARD.
+
+Wie nutzen bereits bestehen Lieferdienste.
+
