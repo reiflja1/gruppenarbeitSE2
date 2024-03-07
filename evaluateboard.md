@@ -1,6 +1,6 @@
 #  EVALUATE BOARD: MyApp
 
-## KANÄLE
+## ANÄLE
 > Beschreibe die Vertriebs- und Marketingkanäle, über welche die NutzerInnen erreicht werden sollen. Beispiel: TikTok, E-Mail, Flyer etc.
 
 ## UNFAIRER VORTEIL
